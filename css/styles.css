@@ -37,6 +37,8 @@ body {
    }
 
 #imagen{
+    width: 300px;
+    height:200px;
     border-width: 10px;
     border-color: white;
     border-style: solid;
