@@ -36,3 +36,9 @@ body {
    background-color: #ACFCD9;
    }
 
+#imagen{
+    border-width: 10px;
+    border-color: white;
+    border-style: solid;
+        
+}
