@@ -44,3 +44,25 @@ body {
     border-style: solid;
         
 }
+
+ul {
+  list-style-type: none;
+  text-align: center
+}
+
+li {
+
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  color: black;
+  padding: 0 4px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: #D7C8B6;
+}
